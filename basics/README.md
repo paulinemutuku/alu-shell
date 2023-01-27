@@ -1,1 +1,1 @@
-current working directory
+this readme will contain scripts for shell basics
